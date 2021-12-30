@@ -6,5 +6,5 @@ Explore the Wiki to discover:
    Collateral package <br>
    Contract addresses <br>
    Real estate resources <br>
-   Mammoth Springs 160 -- Commercial Multifamily <br>
-   CasaTX -- Commercial Single Family 
+   --- Mammoth Springs 160 -- Commercial Multifamily <br>
+   --- CasaTX -- Commercial Single Family 
