@@ -1,1 +1,1 @@
-# Repository is home to the Loci Mutual knowledge base.
+# Loci Mutual knowledge base.
