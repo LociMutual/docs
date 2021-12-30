@@ -2,7 +2,7 @@
 
 Explore the Wiki to discover:
 
-   --- Smart contracts
+   --- Smart contracts//
    --- Collateral package
    --- Contract addresses
    --- Real estate resources
