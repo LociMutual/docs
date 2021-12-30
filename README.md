@@ -2,9 +2,9 @@
 
 Explore the Wiki to discover:
 
-   --- Smart contracts//
-   --- Collateral package
-   --- Contract addresses
-   --- Real estate resources
-      --- Mammoth Springs 160 -- Commercial Multifamily
-      --- CasaTX -- Commercial Single Family
+   Smart contracts <br>
+   Collateral package <br>
+   Contract addresses <br>
+   Real estate resources <br>
+   Mammoth Springs 160 -- Commercial Multifamily <br>
+   CasaTX -- Commercial Single Family 
