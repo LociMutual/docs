@@ -1,8 +1,8 @@
 # Loci Mutual knowledge base.
 
-Explore the Wiki (https://github.com/BrazosCC/docs/wiki) to discover:
+Explore the Project Wiki (https://github.com/BrazosCC/docs/wiki) to learn about:
 
-   Smart contracts <br>
+   Loci Mutual smart contracts <br>
    Collateral package <br>
    Smart contract addresses <br>
    LG contract address... <br>
