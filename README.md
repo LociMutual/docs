@@ -1,6 +1,6 @@
 # Loci Mutual knowledge base.
 
-Explore the Wiki to discover:
+Explore the Wiki (https://github.com/BrazosCC/docs/wiki) to discover:
 
    Smart contracts <br>
    Collateral package <br>
