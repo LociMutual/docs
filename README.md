@@ -1,4 +1,4 @@
-# Mutual knowledge base.
+# Mutual DAO knowledge base.
 
 Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn about:
 
