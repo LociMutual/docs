@@ -8,6 +8,6 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
    * Mutual category and property growth [tokens](https://github.com/LociMutual/docs/wiki/CMBT-Mortgage-token) <br>
    
    <br>
-   Real estate resources <br>
+   DAO property pictures of active opportunities for Loci Associates: <br>
    --- Mammoth Springs 160 -- Commercial Multifamily <br>
    --- CasaTX -- Commercial Single Family 
