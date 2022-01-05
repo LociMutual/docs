@@ -1,4 +1,4 @@
-# Mission: expand access to cost-effective housing, good food, and transportation by building a mutual ownership economy
+# DAO Mission: expand access to cost-effective housing, good food, and transportation by building a mutual ownership economy
 
 # Mutual DAO knowledge base.
 
