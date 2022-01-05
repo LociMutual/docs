@@ -1,6 +1,6 @@
 # Loci Mutual knowledge base.
 
-Explore the Project Wiki (https://github.com/BrazosCC/docs/wiki) to learn about:
+Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn about:
 
    Loci Mutual is DAO and mutual charity governed using open source smart contracts <br>
    LG governance token <br>
