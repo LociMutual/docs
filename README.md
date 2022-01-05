@@ -1,4 +1,4 @@
-# Loci Mutual knowledge base.
+# Mutual knowledge base.
 
 Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn about:
 
