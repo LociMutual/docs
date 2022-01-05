@@ -9,5 +9,5 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
    
    <br>
    DAO property pictures of active opportunities for Loci Associates: <br>
-   --- Mammoth Springs 160 -- Commercial Multifamily <br>
-   [CASATX](https://www.facebook.com/media/set/?set=a.2505415349590293&type=3) Prototype commercial single family growth token collateral
+   --- Mammoth Springs 160 -- prototype commercial multifamily token collateral <br>
+   --- CASATX -- prototype commercial single family token collateral <br>
