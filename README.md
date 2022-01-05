@@ -6,7 +6,7 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
    * LG and LGy multi-class governance [token](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) <br>
    * [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) stable token <br>
    * Loci Bell category tokens: Home, Auto, Food, and DAO tools<br>
-   * Mutual property tokens <br>
+   * Mutual property [tokens](https://github.com/LociMutual/docs/wiki/CMBT-Mortgage-token) <br>
    
    <br>
    Real estate resources <br>
