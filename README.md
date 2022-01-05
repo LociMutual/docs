@@ -8,7 +8,6 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
    * Mutual category and property growth [tokens](https://github.com/LociMutual/docs/wiki/CMBT-Mortgage-token) <br>
 # Loci Quick Start
 
-1. Review the [use agreement](https://github.com/LociMutual/docs/wiki/Use-Agreement)
 1. Create a private wallet using https://Metamask.io
 1. Use Loci Mutual d-apps securely and privately beginning January 11, 2022:
 * > Mint [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) with USDC, USDT or DAI
