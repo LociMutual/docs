@@ -13,3 +13,5 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
 * > Mint [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) with USDC, USDT or DAI
 * > Acquire [LG tokens](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) at auction for LUSD, ETH, USDC, USDT and DAI
 * > Swap $1 LUSD for [$1 real estate tokens](https://github.com/LociMutual/docs/wiki/Real-Estate-Tokens) for token growth daily
+
+# Mission: expand access to cost-effective housing, good food, and transportation by building a mutual ownership economy
