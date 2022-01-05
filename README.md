@@ -6,7 +6,7 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
    * LG and LGy multi-class governance [token](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) <br>
    * [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) stable token <br>
    * Mutual category and property growth [tokens](https://github.com/LociMutual/docs/wiki/CMBT-Mortgage-token) <br>
-# Quick Start
+# Loci Quick Start
 
 1. Review the [use agreement](https://github.com/LociMutual/docs/wiki/Use-Agreement)
 1. Create a private wallet using https://Metamask.io
