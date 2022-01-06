@@ -15,7 +15,7 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
 * > Mint [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) with USDC, USDT or DAI
 * > Acquire [LG tokens](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) at auction for LUSD, ETH, USDC, USDT and DAI
 
-1. Benginning February 11, 2022:Use Loci USD to register ownership of 
-* > Swap $1 LUSD for [$1 real estate tokens](https://github.com/LociMutual/docs/wiki/Real-Estate-Tokens) for daily token growth
+1. Beginning February 11, 2022 register real estate tokens: 
+* > Swap $1 LUSD for [$1 real estate tokens](https://github.com/LociMutual/docs/wiki/Real-Estate-Tokens) for daily principal growth
 
 
