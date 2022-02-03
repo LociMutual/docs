@@ -11,7 +11,7 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
 # Loci Quick Start
 
 1. Create a private wallet using https://Metamask.io
-1. Use Loci Mutual blockchain apps securely and privately beginning January 11, 2022:
+1. Testing of Loci Mutual blockchain apps begins January 11, 2022:
 * > Mint [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) with USDC, USDT or DAI
 * > Acquire [LG tokens](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) at auction for LUSD, ETH, USDC, USDT and DAI
 
