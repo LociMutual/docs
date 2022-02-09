@@ -11,11 +11,11 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
 # Loci Quick Start
 
 1. Create a private wallet using https://Metamask.io
-1. Testing of Loci Mutual blockchain apps begins January 11, 2022:
-* > Mint [Loci USD](https://github.com/LociMutual/docs/wiki/Stable-Token:-LUSD) with USDC, USDT or DAI
-* > Acquire [LG tokens](https://github.com/LociMutual/docs/wiki/Mutual-Governance:-LG-token) at auction for LUSD, ETH, USDC, USDT and DAI
+1. LG token emission auction commences February 11, 2022 live on Ethereum mainnet:
+* > Explore the deployment sequence [here](https://medium.com/@jkw_iii/decentralizing-a-real-estate-dao-27f41f344deb)
+* > 
 
-3. Beginning February 11, 2022 register real estate tokens: 
-* > Swap $1 LUSD for [$1 real estate tokens](https://github.com/LociMutual/docs/wiki/Real-Estate-Tokens) for daily principal growth
+3. Beginning March 11, 2022 begin use of Loci USD for savings and spending with DAO merchants: 
+* > Swap $1 stable coin (USDC/T, DAI) for $1 Loci USD
 
 
