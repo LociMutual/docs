@@ -13,7 +13,6 @@ Explore the [Project Wiki](https://github.com/LociMutual/docs/wiki) to learn abo
 1. Create a private wallet using https://Metamask.io
 1. LG token emission auction commences February 11, 2022 live on Ethereum mainnet:
 * > Explore the deployment sequence [here](https://medium.com/@jkw_iii/decentralizing-a-real-estate-dao-27f41f344deb)
-* > 
 
 3. Beginning March 11, 2022 begin use of Loci USD for savings and spending with DAO merchants: 
 * > Swap $1 stable coin (USDC/T, DAI) for $1 Loci USD
